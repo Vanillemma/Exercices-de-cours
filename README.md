@@ -16,13 +16,10 @@ Le script :
 ## Structure du projet
 
 ```text
-exercices-shell/
-├── .gitignore
+Exercices-de-cours/
 ├── README.md
-└── emploi-du-temps/
-    ├── edt.sh
-    ├── README.md
-    └── exemple-sortie.txt
+├── edt.sh
+└── exemple-sortie.txt
 ```
 
 ## Utilisation

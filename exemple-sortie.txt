@@ -1,0 +1,10 @@
+Exemple de sortie
+
+EDT du 25/09/2026
+
+    Monday - 10:15 - 12:00      B203 - UNIX
+    Monday - 14:00 - 16:00      B105 - Réseaux
+   Tuesday - 08:00 - 10:00      C201 - Systèmes
+
+Remarque :
+la sortie réelle dépend du contenu de l'emploi du temps distant.
